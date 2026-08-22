@@ -18,7 +18,7 @@ export const PRODUCT = {
 // ============================================
 // CHECKOUT - Troque o link abaixo pelo seu link real
 // ============================================
-export const CHECKOUT_URL = "COLE_SEU_LINK_AQUI";
+export const CHECKOUT_URL = "https://checkout.infinitepay.io/vitor-gabriel-575/Qku3h5VzTO";
 
 // ============================================
 // SUPORTE / CONTATO
